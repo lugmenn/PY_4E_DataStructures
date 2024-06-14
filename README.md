@@ -1,1 +1,2 @@
 # PY_4E_DataStructures
+The exercises I completed for course 2: "Python Data Structures" from the Python For Everybody Specialization by the University of Michigan and taught by Dr. Charles Severance. The exercises here include the basics on data structures such as importing and reading files, as well as learning about the main data structures on Python, for creating, indexing and extracting strings, lists, dictionaries and tuples.
